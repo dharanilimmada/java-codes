@@ -1,0 +1,8 @@
+class Details {
+    public static void main(String[] args) {
+        System.out.println("Name: Dharani Limmada");
+        System.out.println("Age : 21");
+        System.out.println("Phone Number : 8919256336");
+        System.out.println("Email : limmadadharani@gmail.com");
+    }
+}
